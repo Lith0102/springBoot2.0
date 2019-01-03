@@ -20,7 +20,14 @@ public class DemoApplication {
 	@Autowired
 	WebApplicationContext webApplicationContext;
 	
+    /**
+     * @Author：Litonghui
+     * 2019年1月3日 上午11:15:50
+     * @title： 
+     * 
+     */
     public static void main(String[] args) {
+    	
         try {
             SpringApplication.run(DemoApplication.class, args);
         }catch (Exception e){
