@@ -23,7 +23,7 @@ public class DemoApplication {
     /**
      * @Author：Litonghui
      * 2019年1月3日 上午11:15:50
-     * @title： 测试一下
+     * @title：
      * 
      */
     public static void main(String[] args) {
